@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>1 Billion Goal Quotes</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #ccc;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    .headline {
+      font-size: 72px;
+      font-weight: bold;
+      text-align: center;
+      color: #0f0; /* green */
+      margin-bottom: 60px;
+    }
+    .quote {
+      margin-bottom: 40px;
+      border-left: 4px solid #f00; /* red */
+      padding-left: 20px;
+      font-size: 20px;
+      line-height: 1.6;
+      background-color: #1a1a1a;
+      padding: 20px;
+      border-radius: 8px;
+    }
+    .author {
+      display: block;
+      margin-top: 10px;
+      color: #888;
+      font-style: italic;
+      text-align: right;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="headline">1 Billion</div>
+
+    <div class="quote">
+      “Shoot for the moon. Even if you miss, you'll land among the stars.”
+      <span class="author">— Norman Vincent Peale</span>
+    </div>
+
+    <div class="quote">
+      “Make no little plans; they have no magic to stir men's blood.”
+      <span class="author">— Daniel Burnham</span>
+    </div>
+
+    <div class="quote">
+      “The greater danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.”
+      <span class="author">— Michelangelo</span>
+    </div>
+
+    <div class="quote">
+      “If your dreams do not scare you, they are not big enough.”
+      <span class="author">— Ellen Johnson Sirleaf</span>
+    </div>
+
+    <div class="quote">
+      “You have to think anyway, so why not think big?”
+      <span class="author">— Donald Trump</span>
+    </div>
+
+    <div class="quote">
+      “Only those who attempt the absurd can achieve the impossible.”
+      <span class="author">— Albert Einstein</span>
+    </div>
+
+    <div class="quote">
+      “Dream big dreams; only big dreams have the power to move men's souls.”
+      <span class="author">— Marcus Aurelius</span>
+    </div>
+
+    <div class="quote">
+      “It always seems impossible until it's done.”
+      <span class="author">— Nelson Mandela</span>
+    </div>
+
+    <div class="quote">
+      “The people who are crazy enough to think they can change the world are the ones who do.”
+      <span class="author">— Steve Jobs</span>
+    </div>
+
+    <div class="quote">
+      “Set your goals high, and don't stop till you get there.”
+      <span class="author">— Bo Jackson</span>
+    </div>
+  </div>
+</body>
+</html>
